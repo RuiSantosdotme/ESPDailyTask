@@ -1,3 +1,5 @@
+FORKED from https://github.com/HarringayMakerSpace/IoT/tree/master/ESPDailyTask
+
 = ESPDailyTask Library for ESP8266/Arduino =
 
 A little library to have an ESP8266 deepSleep for one day.
